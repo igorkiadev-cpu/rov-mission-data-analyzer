@@ -83,6 +83,10 @@ python main.py
 - ROV mission data analysis
 - Offshore operational reporting
 
+  ## 3D Mission Visualization
+
+![ROV 3D Mission](images/3d-trajectory.png)
+
 ---
 
 ## Author
