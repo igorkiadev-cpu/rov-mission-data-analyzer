@@ -85,7 +85,7 @@ python main.py
 
   ## 3D Mission Visualization
 
-![ROV 3D Mission](images/3d-trajectory.png)
+![ROV 3D Mission](mission-analysis.png.PNG)
 
 ---
 
